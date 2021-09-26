@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-r8e8_ejm-xaegc&c)e^f&h$_yby29amy*#zf!^1xcjb5k^3&7k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['']
+ALLOWED_HOSTS = ['127.0.0.1','metabobplayer.herokuapp.com']
 
 
 # Application definition
